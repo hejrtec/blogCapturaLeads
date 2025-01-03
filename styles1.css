@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat|PT++Mono);
+
+:root {
+    --primary-color: rgb(22, 21, 20); 
+    --secundary-color: rgb(239, 157, 48);
+    --tertiary-color: rgb(226, 223, 223);
+}
+
+body{
+    background-color: var(--primary-color);
+    font-size: 15px;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    
+}
+
+h1{
+    font-size: 20px;
+    color: rgb(239, 157, 48);
+}
+
+p{  
+    color: aliceblue;
+    font-size: 18px; 
+}
+h3{
+    color: rgb(239, 157, 48); 
+    font-size: 18px;
+}
+
+
+
+form {
+    padding-left: 20px;
+   
+    color: aliceblue;
+    font-size: 18px;
+}
+div{
+    text-align: center;
+}
+
+.content{
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 400px;
+}escreve ao lado da imagem
+.fotos{
+
+    text-align: center;
+}
+
+.post-content{
+    width:"390px"; 
+    height:"400px";
+    
+    text-align: center;
+}
+
+h6 {
+    font-size: 10px;
+    text-align: right;
+    color: aliceblue;
+   
+}
+
+
+a{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+button{
+    color: aliceblue;
+}
+
+
+   
+            
